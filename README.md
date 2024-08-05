@@ -3,4 +3,6 @@
 Project consists of creating AWS VPC from scratch 
 <br />
 <h2>Program walk-through:</h2>
-![image](https://github.com/user-attachments/assets/87f88d88-db72-4900-918d-07311c85572d)
+select VPC in the AWS console: <br/>
+![image](https://github.com/user-attachments/assets/02ee67fb-2ffd-401a-9a2f-7e0e2e6a568b)
+
